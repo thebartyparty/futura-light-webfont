@@ -1,8 +1,7 @@
 @font-face {
     font-family: 'Futura';
     src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold.eot');
-    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold.woff2') format('woff2'),
+    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold.woff') format('woff'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold.ttf') format('truetype');
     font-weight: bold;
@@ -12,8 +11,7 @@
 @font-face {
     font-family: 'Futura Lt BT';
     src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightItalic.eot');
-    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightItalic.woff2') format('woff2'),
+    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightItalic.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightItalic.woff') format('woff'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightItalic.ttf') format('truetype');
     font-weight: 300;
@@ -23,8 +21,7 @@
 @font-face {
     font-family: 'Futura';
     src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold_1.eot');
-    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold_1.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold_1.woff2') format('woff2'),
+    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold_1.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold_1.woff') format('woff'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-Bold_1.ttf') format('truetype');
     font-weight: 500;
@@ -34,8 +31,7 @@
 @font-face {
     font-family: 'Futura Lt BT';
     src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-Light.eot');
-    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-Light.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-Light.woff2') format('woff2'),
+    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-Light.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-Light.woff') format('woff'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-Light.ttf') format('truetype');
     font-weight: 300;
@@ -45,8 +41,7 @@
 @font-face {
     font-family: 'Futura LtCn BT';
     src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightCondensed.eot');
-    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightCondensed.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightCondensed.woff2') format('woff2'),
+    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightCondensed.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightCondensed.woff') format('woff'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/FuturaBT-LightCondensed.ttf') format('truetype');
     font-weight: 300;
@@ -56,8 +51,7 @@
 @font-face {
     font-family: 'Futura';
     src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-CondensedLight.eot');
-    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-CondensedLight.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-CondensedLight.woff2') format('woff2'),
+    src: url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-CondensedLight.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-CondensedLight.woff') format('woff'),
         url('https://raw.githubusercontent.com/thebartyparty/futura-light-webfont/master/Futura-CondensedLight.ttf') format('truetype');
     font-weight: 300;
